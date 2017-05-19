@@ -5,3 +5,28 @@ span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
 }
+
+[epub|type~="z3998:song"] p{
+	text-align: left;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:song"] p > span{
+	display: block;
+	text-indent: -1em;
+	padding-left: 1em;
+}
+
+[epub|type~="z3998:song"] p > span + br{
+	display: none;
+}
+
+.legend p{
+	font-variant: small-caps;
+	text-align: center;
+	text-indent: 0;
+}
+
+.legend p:first-child{
+	font-variant: all-small-caps;
+}
