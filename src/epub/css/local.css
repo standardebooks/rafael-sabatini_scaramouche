@@ -40,3 +40,7 @@ footer{
 [epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
+
+blockquote[epub|type~="z3998:song"]{ /* workaround because we can't select xml:lang right now */
+	font-style: italic;
+}
