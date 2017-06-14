@@ -27,10 +27,6 @@ span[epub|type~="subtitle"]{
 	text-indent: 0;
 }
 
-.legend p:first-child{
-	font-variant: all-small-caps;
-}
-
 footer{
 	margin-top: 1em;
 	text-align: right;
