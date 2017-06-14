@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: http://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/rafael-sabatini/scaramouche</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2017-06-14T21:49:31Z</dc:date>
+		<meta property="dcterms:modified">2017-06-14T21:49:31Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -35,16 +35,18 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1947</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1947</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A country lawyer finds love and adventure as he seeks revenge during the French Revolution.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;&lt;i&gt;Scaramouche&lt;/i&gt; tells the tale of André-Louis Moreau, a young lawyer in Brittany.  When his friend is killed by an unremorseful landowner, Moreau swears revenge and begins a life of adventure on the run.  His travels lead him to joining a traveling theater troupe, becoming a master swordsman, and even to revolution.&lt;/p&gt;
+			&lt;p&gt;While the story of &lt;i&gt;Scaramouche&lt;/i&gt; is fiction, Sabatini was always very careful to portray history as accurately as he could in his novels.  Thus, the backdrop of the French Revolution is vibrant, immediate, and carefully described.  In general Sabatini’s prose is sharp and entertaining.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Scaramouche&lt;/i&gt; was incredibly popular in its day, and was Sabatini’s most famous novel. The first line is written on Sabatini’s grave.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1947</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100208678</dc:source>
-		<meta property="se:word-count">132137</meta>
+		<meta property="se:word-count">132139</meta>
 		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Scaramouche_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rafael-sabatini_scaramouche</meta>
