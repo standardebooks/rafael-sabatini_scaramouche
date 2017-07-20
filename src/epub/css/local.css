@@ -41,6 +41,7 @@ footer{
 	text-indent: 0;
 }
 
-blockquote[epub|type~="z3998:song"]{ /* workaround because we can't select xml:lang right now */
+/* workaround because we can't select xml:lang right now */
+blockquote[epub|type~="z3998:song"]{
 	font-style: italic;
 }
