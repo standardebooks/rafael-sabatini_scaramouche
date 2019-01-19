@@ -21,7 +21,7 @@ span[epub|type~="subtitle"]{
 	display: none;
 }
 
-.legend p{
+#chapter-1 blockquote p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
