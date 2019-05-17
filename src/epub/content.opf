@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Scaramouche</dc:title>
 		<meta property="file-as" refines="#title">Scaramouche</meta>
 		<meta property="title-type" refines="#title">main</meta>
@@ -40,19 +40,21 @@
 		<dc:subject id="subject-2">War stories</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
 		<dc:subject id="subject-4">Adventure stories</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/1947</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/1947</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/1947</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/1947</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85051330</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85145220</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">Unknown</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85001072</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A country lawyer finds love and adventure as he seeks revenge during the French Revolution.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Scaramouche&lt;/i&gt; tells the tale of André-Louis Moreau, a young lawyer in Brittany. When his friend is killed by an unremorseful landowner, Moreau swears revenge and begins a life of adventure on the run. His travels lead him to joining a traveling theater troupe, becoming a master swordsman, and even to revolution.&lt;/p&gt;
 			&lt;p&gt;While the story of &lt;i&gt;Scaramouche&lt;/i&gt; is fiction, Sabatini was always very careful to portray history as accurately as he could in his novels. Thus, the backdrop of the French Revolution is vibrant, immediate, and carefully described. In general Sabatini’s prose is sharp and entertaining.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Scaramouche&lt;/i&gt; was incredibly popular in its day, and was Sabatini’s most famous novel. The first line is written on Sabatini’s grave.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1947</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100208678</dc:source>
