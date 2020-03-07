@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-3-3.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>"Le Chapelier" not preceded by first name, so it must be capitalized.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
