@@ -57,7 +57,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1947</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100208678</dc:source>
-		<meta property="se:word-count">130955</meta>
+		<meta property="se:word-count">130957</meta>
 		<meta property="se:reading-ease.flesch">73.68</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Scaramouche_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rafael-sabatini_scaramouche</meta>
