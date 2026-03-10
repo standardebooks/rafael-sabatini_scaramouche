@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-3-3.xhtml">
 		<ignore code="s-023">
+			<line>12</line>
 			<reason>"Le Chapelier" not preceded by first name, so it must be capitalized.</reason>
 		</ignore>
 	</file>
