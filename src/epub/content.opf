@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/rafael-sabatini/scaramouche</dc:identifier>
 		<dc:date>2017-06-14T21:49:31Z</dc:date>
@@ -50,12 +50,12 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85001072</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A country lawyer finds love and adventure as he seeks revenge during the French Revolution.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A country lawyer finds love and adventure as he seeks revenge during the French Revolution.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Scaramouche&lt;/i&gt; tells the tale of André-Louis Moreau, a young lawyer in Brittany. When his friend is killed by an unremorseful landowner, Moreau swears revenge and begins a life of adventure on the run. His travels lead him to joining a traveling theater troupe, becoming a master swordsman, and even to revolution.&lt;/p&gt;
 			&lt;p&gt;While the story of &lt;i&gt;Scaramouche&lt;/i&gt; is fiction, &lt;a href="https://standardebooks.org/ebooks/rafael-sabatini"&gt;Sabatini&lt;/a&gt; was always very careful to portray history as accurately as he could in his novels. Thus, the backdrop of the French Revolution is vibrant, immediate, and carefully described. In general Sabatini’s prose is sharp and entertaining.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Scaramouche&lt;/i&gt; was incredibly popular in its day, and was Sabatini’s most famous novel. The first line is written on Sabatini’s grave.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1947</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100208678</dc:source>
