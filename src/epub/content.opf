@@ -37,7 +37,7 @@
 		<dc:title id="fulltitle">Scaramouche: A Romance of the French Revolution</dc:title>
 		<meta property="file-as" refines="#fulltitle">Scaramouche: A Romance of the French Revolution</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">France -- History -- Revolution, 1789-1799 -- Fiction</dc:subject>
+		<dc:subject id="subject-1">France--History--Revolution, 1789-1799--Fiction</dc:subject>
 		<dc:subject id="subject-2">War stories</dc:subject>
 		<dc:subject id="subject-3">Love stories</dc:subject>
 		<dc:subject id="subject-4">Adventure stories</dc:subject>
