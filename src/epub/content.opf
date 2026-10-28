@@ -59,7 +59,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1947</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100208678</dc:source>
-		<meta property="schema:wordCount">129968</meta>
+		<meta property="schema:wordCount">129967</meta>
 		<meta property="schema:educationalLevel">73.68</meta>
 		<link href="https://en.wikipedia.org/wiki/Scaramouche_(novel)" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
